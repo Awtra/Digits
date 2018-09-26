@@ -1,4 +1,3 @@
-#Shaan Sullivan
 #This program adds up digits and finds the sum.
 
 #asks for input
